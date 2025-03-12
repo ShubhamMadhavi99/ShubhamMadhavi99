@@ -3,7 +3,7 @@
 🚀 **Full Stack Python Developer | Data Engineer | AI/ML Enthusiast**
 
 🔹 Passionate about **building AI-powered solutions, optimizing data pipelines, and leveraging LLMs for real-world applications**.  
-🔹 4+ years of experience in **Python, AI/ML, Data Engineering, and Full Stack Development**.  
+🔹 4.5+ years of experience in **Python, AI/ML, Data Engineering, and Full Stack Development**.  
 🔹 Strong expertise in **Generative AI, PySpark, FastAPI, and Cloud Technologies (AWS, GCP)**.  
 
 ---
