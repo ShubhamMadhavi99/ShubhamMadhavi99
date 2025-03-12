@@ -46,18 +46,10 @@
 
 ---
 
-## 📊 **GitHub Stats**
-
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhammadhavi&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhammadhavi&layout=compact&theme=radical)
-
----
-
 ## 🤝 **Let's Connect**
 
 📩 **Email:** [shubhamrmadhavi@gmail.com](mailto:shubhamrmadhavi@gmail.com)  
-🔗 **LinkedIn:** [Shubham Madhavi](https://www.linkedin.com/in/shubham-madhavi/)  
+🔗 **LinkedIn:** [Shubham Madhavi](https://www.linkedin.com/in/shubham-madhavi-a2a37b166/)  
 🌍 **Portfolio (Coming Soon!)**
 
 💬 Feel free to connect, collaborate, or just say hi! 🚀
